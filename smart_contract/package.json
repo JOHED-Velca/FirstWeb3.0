@@ -1,4 +1,16 @@
 {
+  "name": "smart_contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.8",
     "@nomicfoundation/hardhat-ethers": "^3.0.8",
